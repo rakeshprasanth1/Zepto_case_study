@@ -15,7 +15,7 @@ import plotly.express as px
 import plotly.graph_objs as go 
 #import plotly.figure_factory as ff
 
-# avoid displaying warnings
+
 import warnings
 warnings.filterwarnings("ignore")
 
